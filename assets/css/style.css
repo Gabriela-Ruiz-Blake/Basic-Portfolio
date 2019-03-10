@@ -89,6 +89,7 @@ body {
     top:200px;
     left:100px;
     z-index: 3;
+    width: 200px;
   }
   #bio{
     position: absolute;
